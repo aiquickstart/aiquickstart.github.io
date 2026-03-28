@@ -19,7 +19,7 @@ window.SITE_CONFIG = {
   priceOld:      "79 zł",
 
   /* Płatności — wklej link ze Stripe / Gumroad / Hotmart */
-  paymentUrl:    "https://www.naffy.io/AiQuickStart/ai-quick-start-XDC",
+  paymentUrl:    "https://www.naffy.io/AiQuickStart/1",
 
   /* Podstrony */
   regulaminUrl:  "regulamin.html",
